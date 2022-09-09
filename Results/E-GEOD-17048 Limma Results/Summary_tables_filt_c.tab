@@ -1,0 +1,17 @@
+Total number of measurements	37804
+	
+Comparisons	pVal < 0.001 total	pVal < 0.001 up	pVal < 0.001 down	pVal < 0.01 total	pVal < 0.01 up	pVal < 0.01 down	pVal < 0.05 total	pVal < 0.05 up	pVal < 0.05 down	pVal < 0.1 total	pVal < 0.1 up	pVal < 0.1 down	NAs
+Number expected	38	19	19	379	190	190	1891	946	946	3781	1891	1891	0
+table_PPMS_filt	134	74	60	815	421	394	2973	1478	1495	5129	2518	2611	0
+table_RRMS_filt	110	67	43	639	345	294	2464	1244	1220	4512	2213	2299	0
+table_SPMS_filt	63	30	33	551	291	260	2345	1156	1189	4409	2140	2269	0
+				
+Comparisons	adj.pVal < 0.05 total	adj.pVal < 0.05 up	adj.pVal < 0.05 down	NAs
+table_PPMS_filt	0	0	0	0
+table_RRMS_filt	3	3	0	0
+table_SPMS_filt	0	0	0	0
+													
+Comparisons	|FC| >= 1.1 total	FC >= 1.1 up	FC <= 1.1 down	|FC| >= 1.2 total	FC >= 1.2 up	FC <= 1.2 down	|FC| >= 1.5 total	FC >= 1.5 up	FC <= 1.5 down	|FC| >= 2 total	FC >= 2 up	FC <= 2 down	NAs
+table_PPMS_filt	2650	1365	1285	350	214	136	18	14	4	1	1	0	0
+table_RRMS_filt	2700	1404	1296	296	184	112	9	4	5	3	2	1	0
+table_SPMS_filt	4372	2270	2102	497	319	178	33	29	4	3	2	1	0
