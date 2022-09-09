@@ -1,0 +1,21 @@
+Total number of measurements	22184												
+													
+Comparisons	pVal < 0.001 total	pVal < 0.001 up	pVal < 0.001 down	pVal < 0.01 total	pVal < 0.01 up	pVal < 0.01 down	pVal < 0.05 total	pVal < 0.05 up	pVal < 0.05 down	pVal < 0.1 total	pVal < 0.1 up	pVal < 0.1 down	NAs
+Number expected	23	12	12	222	111	111	1110	555	555	2219	1110	1110	0
+table_PPMS_filt	1174	538	636	2805	1302	1503	5255	2613	2642	7014	3575	3439	0
+table_CIS_filt	535	228	307	1617	723	894	3565	1659	1906	5172	2474	2698	0
+table_RRMS_filt	423	195	228	1499	675	824	3468	1670	1798	5179	2551	2628	0
+table_SPMS_filt	961	525	436	2430	1303	1127	4794	2472	2322	6591	3323	3268	0
+													
+Group	Total genes with adj.pVal < 0.05	 upregulated genes with adj.pVal < 0.05	downregulated genes with adj.pVal < 0.05	Relative total (%)									
+PPMS	2174	992	1182	9,8									
+CIS	617	264	353	2,8									
+RRMS	387	180	207	1,7									
+SPMS	1626	878	748	73									
+Number of measured genes	22184												
+													
+Comparisons	|FC| >= 1.1 total	FC >= 1.1 up	FC <= 1.1 down	|FC| >= 1.2 total	FC >= 1.2 up	FC <= 1.2 down	|FC| >= 1.5 total	FC >= 1.5 up	FC <= 1.5 down	|FC| >= 2 total	FC >= 2 up	FC <= 2 down	NAs
+table_PPMS_filt	6510	3094	3416	2245	1031	1214	153	98	55	8	6	2	0
+table_CIS_filt	3572	1693	1879	754	366	388	45	30	15	4	4	0	0
+table_RRMS_filt	3580	1734	1846	659	326	333	16	11	5	2	2	0	0
+table_SPMS_filt	6415	3248	3167	2050	1066	984	131	80	51	6	6	0	0
